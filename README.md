@@ -38,7 +38,7 @@ git clone https://github.com/gothsec/moviesfordevs
 ```  
 npm install
 ```
-3. Start the develpoment server:
+3. Create a `.env.local` file with `NEXT_PUBLIC_OMDB_API_KEY=your_api_key` and `NEXT_PUBLIC_YOUTUBE_API_KEY=your_api_key`, then start the development server:
 ```  
 npm run dev
 ```
